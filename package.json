@@ -1,6 +1,6 @@
 {
   "name": "@aymen3009/port-proxy",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "A simple port proxy tool",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
     "url": "https://github.com/aymen3009/port-proxy.git"
   },
   "dependencies": {
-    "chalk": "^5.3.0",
+    "chalk": "4.1.2",
     "commander": "10.0.0"
   },
   "bin": {

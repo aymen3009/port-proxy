@@ -4,12 +4,6 @@
 
 This is a simple port proxy that listens on a port and forwards the data to another port.
 
-**THIS IS A WORK IN PROGRESS**
-
-**DO NOT USE IN PRODUCTION**
-
-**USE AT YOUR OWN RISK**
-
 ## Installation
 
 ```bash
