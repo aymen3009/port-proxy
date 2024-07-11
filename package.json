@@ -1,0 +1,29 @@
+{
+  "name": "@aymen3009/port-proxy",
+  "version": "0.0.1",
+  "description": "A simple port proxy tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "port proxy",
+    "proxy",
+    "forward",
+    "port forward",
+    "tool",
+    "cli tool",
+    "udp proxy",
+    "tcp proxy"
+  ],
+  "author": "Aymen Abdellaoui <aymen.abdellaoui997@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "10.0.0",
+    "morgan": "^1.10.0"
+  },
+  "bin": {
+    "portProxy": "./index.js",
+    "port-proxy": "./index.js"
+  }
+}
