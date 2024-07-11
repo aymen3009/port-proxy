@@ -1,6 +1,6 @@
 {
   "name": "@aymen3009/port-proxy",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A simple port proxy tool",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,11 @@
   ],
   "author": "Aymen Abdellaoui <aymen.abdellaoui997@gmail.com>",
   "license": "MIT",
+  "homepage": "https://github.com/aymen3009/port-proxy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aymen3009/port-proxy.git"
+  },
   "dependencies": {
     "chalk": "^5.3.0",
     "commander": "10.0.0"
